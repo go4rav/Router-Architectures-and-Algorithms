@@ -1,0 +1,13 @@
+[N=8,B=10,p=0.7, K=0.6, L=0.5, T=5  ] , AVg. packet delay 14, Avg. Port Utilisation 0.825, Avg. Drop Probability 0.125
+[N=8,B=10,p=0.4, K=0.6, L=0.5, T=5 ] , AVg. packet delay 11, Avg. Port Utilisation 0.425, Avg. Drop Probability 0.275
+[N=16,B=20,p=0.4, K=0.6, L=0.5, T=5  ] , AVg. packet delay 28, Avg. Port Utilisation 0.3375000000000001, Avg. Drop Probability 0.0625
+[N=16,B=20,p=0.4, K=0.6, L=0.5, T=5   ] , AVg. packet delay 20, Avg. Port Utilisation 0.484375, Avg. Drop Probability 0.1328125
+[N=16,B=20,p=0.4, K=0.5, L=0.4, T=8   ] , AVg. packet delay 27, Avg. Port Utilisation 0.515625, Avg. Drop Probability 0.2109375
+[N=16,B=20,p=0.8, K=0.5, L=0.4, T=8    ] , AVg. packet delay 20, Avg. Port Utilisation 0.8203125, Avg. Drop Probability 0.046875
+[N=8,B=20,p=0.8, K=0.5, L=0.4, T=8  ] , AVg. packet delay 14, Avg. Port Utilisation 0.84375, Avg. Drop Probability 0.140625
+[N=8, p=0.8] , AVg. packet delay 1 Avg. Port Utilisation 0.575
+[N=8, p=0.4 ] , AVg. packet delay 1 Avg. Port Utilisation 0.375
+[N=16, p=0.4  ] , AVg. packet delay 1 Avg. Port Utilisation 0.3375000000000001
+[N=16, p=0.8 ] , AVg. packet delay 1 Avg. Port Utilisation 0.55
+[N=32, p=0.4  ] , AVg. packet delay 1 Avg. Port Utilisation 0.3375
+[N=32, p=0.8  ]  , AVg. packet delay 1 Avg. Port Utilisation 0.5437500000000001
