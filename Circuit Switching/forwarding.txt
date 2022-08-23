@@ -1,0 +1,42 @@
+Forwarding Table for Node  0
+Node ID of Incoming Port                       Starting Slot Number                            Node ID of Outgoing Port                        Starting Slot Number
+-                                                   -                                                   2                                                   0                                                   
+-                                                   -                                                   1                                                   0                                                   
+-                                                   -                                                   1                                                   20                                                   
+2                                                    24                                                    -                                                   -                                                   
+
+
+
+Forwarding Table for Node  1
+Node ID of Incoming Port                       Starting Slot Number                            Node ID of Outgoing Port                        Starting Slot Number
+0                                                    0                                                    3                                                   0                                                   
+0                                                    20                                                    3                                                   20                                                   
+
+
+
+Forwarding Table for Node  2
+Node ID of Incoming Port                       Starting Slot Number                            Node ID of Outgoing Port                        Starting Slot Number
+0                                                    0                                                    -                                                   -                                                   
+4                                                    0                                                    0                                                   24                                                   
+
+
+
+Forwarding Table for Node  3
+Node ID of Incoming Port                       Starting Slot Number                            Node ID of Outgoing Port                        Starting Slot Number
+1                                                    0                                                    -                                                   -                                                   
+1                                                    20                                                    5                                                   0                                                   
+
+
+
+Forwarding Table for Node  4
+Node ID of Incoming Port                       Starting Slot Number                            Node ID of Outgoing Port                        Starting Slot Number
+-                                                   -                                                   2                                                   0                                                   
+
+
+
+Forwarding Table for Node  5
+Node ID of Incoming Port                       Starting Slot Number                            Node ID of Outgoing Port                        Starting Slot Number
+3                                                    0                                                    -                                                   -                                                   
+
+
+
